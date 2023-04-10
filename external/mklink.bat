@@ -1,0 +1,1 @@
+mklink /d D:\data\Vulkan-master\external\EffectiveTracy   D:\data\Performance\EffectiveTracy
